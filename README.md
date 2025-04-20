@@ -1,2 +1,8 @@
-# NASA-Chatbot
-An Agent for exploring NASA data and beyond using NASA API call
+title: NASA AI Chatbot
+emoji: 🐠
+colorFrom: gray
+colorTo: gray
+sdk: streamlit
+sdk_version: 1.41.1
+app_file: app.py
+pinned: false
